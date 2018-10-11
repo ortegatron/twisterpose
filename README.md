@@ -1,6 +1,6 @@
 # TwisterPose!
 
-A game like twister, but with the screen as a the board.
+A game like twister, but with the screen as the board.
 
 Simple game using OpenPose, OpenCv and PyGame.
 
