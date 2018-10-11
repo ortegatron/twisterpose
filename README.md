@@ -40,7 +40,7 @@ Gradients are drawn thanks to [proyect gradients](https://www.pygame.org/project
 The webcam image processing is done on Input.py, the main game core functions are defined at the GameBrain.py, and each scene has its own class file.
 
 ## About
-Game was created to be shown at Ingeniería Demuestra 2018, a tech diffusion expo organized by the Engineering University at Montevideo, Uruguay. The main target audience of this expo is curious people and kids, so we thought this game was a good way to catch that public attention and show them how OpenPose works and the way we are using it on our thesis. 
+Game was created to be shown at Ingeniería Demuestra 2018, a tech diffusion expo organized by the Engineering University at Montevideo, Uruguay. The main target audience of this expo is curious people and kids, so we thought this game was a good way to catch that public's attention and show them how OpenPose works and the way we are using it on our thesis. 
 
 It worked quite good and the game was played by more than a hundred people.
 
