@@ -8,6 +8,7 @@ Simple game using OpenPose, OpenCv and PyGame.
     <img src="demo.gif", width="480">
 </p>
 
+See more at https://www.youtube.com/watch?v=5QrXrjyCz2I&
 
 ## Game
 The game is played with a camera and the player standing up facing the screen. With OpenPose, the player's body keypoints such as his nose, shoulders, elbows and toes are detected and displayed at the screen at real time.
